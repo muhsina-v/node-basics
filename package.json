@@ -1,0 +1,21 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "installing npm third party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node basics"
+  },
+  "keywords": [
+    "sa"
+  ],
+  "author": "muhsina",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.4"
+  }
+}
