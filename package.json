@@ -16,6 +16,7 @@
   "author": "muhsina",
   "license": "ISC",
   "dependencies": {
-    "cli-color": "^2.0.4"
+    "cli-color": "^2.0.4",
+    "samples": "file:"
   }
 }
