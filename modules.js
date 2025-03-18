@@ -1,10 +1,10 @@
-// const hello=require("./index")
-// const cl=require("cli-color")
+const hello=require("./index")
+const cl=require("cli-color")
 
 
-// console.log(cl.blue.bgRed(hello.name));
-// hello.greet()
+console.log(cl.blue.bgRed(hello.name));
+hello.greet()
 
-const os=require("os")
+// const os=require("os")
 
-console.log(os.totalmem());
+// console.log(os.totalmem());
