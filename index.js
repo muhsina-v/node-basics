@@ -15,3 +15,12 @@ const hello={
     }
 }
 module.exports=hello
+
+const http=require("http")
+
+const server=http.createServer(()=>{
+res.writehead("kkk")
+res.end()
+
+})
+.listen(3000)
